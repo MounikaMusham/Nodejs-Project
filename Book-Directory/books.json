@@ -1,12 +1,22 @@
 [
-    { "id": 1, "name": "Alice in Wonderland", "author": "Lewis Carroll" },
+    { "id": 1, "name": "nspiring Thoughts: Quotation Series", 
+      "author": "Dr. A.P.J. Abdul Kalam " 
+    },
+
     {
       "id": 2,
-      "name": "Around the World in Eighty Days",
-      "author": "Jules Verne"
+      "name": "The Five Steps to Success ",
+      "author": "Yandamoori Veerendranath"
     },
-    { "id": 3, "name": "David Copperfield", "author": "Charles Dickens" },
-    { "id": 4, "name": "The Adventures of Tom Sawyer", "author": "Mark Twain" },
+
+    { "id": 3, "name": "The God of Small Things ", 
+      "author": "Arundhati Roy"
+     },
+
+    { "id": 4, "name": "Stay Hungry Stay Foolish ",
+       "author": "Rashmi Bansal" 
+      },
+      
     {
       "id": 5,
       "name": "Harry Potter and The Philosophers Stone",
